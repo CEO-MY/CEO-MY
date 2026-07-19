@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CEO-MY
-- 👀 I’m interested in ...Web development 
+- 👋 Hi, I’m Foster
+- 👀 I’m interested in ...Web development, mobile application development
 - 🌱 I’m currently learning ...django and Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...0534054860
